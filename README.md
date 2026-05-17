@@ -18,8 +18,7 @@ To become skilled in:
 - Cybersecurity
 - Open Source Contribution
 
-## Programs Added
-- hello.py
+
 ## Programs Added
 
 - hello.py
