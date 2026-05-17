@@ -20,3 +20,7 @@ To become skilled in:
 
 ## Programs Added
 - hello.py
+## Programs Added
+
+- hello.py
+- calculator.py
